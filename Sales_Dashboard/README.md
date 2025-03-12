@@ -1,7 +1,7 @@
 # Sales Dashboard
 
 ## Overview
-This dashboard provides a comprehensive view of sales data for various products, focusing on the years 2004 and 2003. 
+This dashboard provides a comprehensive view of sales data for various products, focusing on the years 2003, 2004 and 2005. 
 
 ## Key Features
 
@@ -31,4 +31,14 @@ This dashboard provides a comprehensive view of sales data for various products,
 
 ## Usage
 Designed for sales managers, analysts, and business stakeholders to monitor sales performance, track top-selling products, and analyze customer distribution.
+
+###Below are Some images of the Dashboard 
+![img1](https://github.com/user-attachments/assets/015dfdf0-040c-49d8-8295-4f4ee41f809c)
+
+![img2](https://github.com/user-attachments/assets/8fa4636b-76a0-4c3d-8c90-84d538e719ec)
+
+![img3](https://github.com/user-attachments/assets/9cacdd75-be96-4684-a388-b94d07a2299f)
+
+
+
 
